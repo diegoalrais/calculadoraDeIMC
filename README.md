@@ -9,3 +9,5 @@
 3. Coloquei uma imagem na página principal do ícone;
 4. Formatei a quantidade de casas decimais na hora de apresentar o resultado;
 5. Alterei as cores do app em comparação com o projeto base.
+
+[Apresentação](https://youtu.be/aTHlkgcbVeI)
